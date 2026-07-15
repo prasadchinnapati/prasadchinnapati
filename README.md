@@ -3,3 +3,10 @@
 </p>
 
 ![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=prasadchinnapati&config=https%3A%2F%2Fraw.githubusercontent.com%2Fprasadchinnapati%2Fprasadchinnapati%2Fmain%2Fconfig.json&v=2)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadchinnapati&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadchinnapati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
