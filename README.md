@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=prasadchinnapati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=prasadchinnapati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
