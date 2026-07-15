@@ -1,0 +1,12 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "items": [
+        { "label": "Name", "value": "Prasad Chinnapati" },
+        { "label": "Role", "value": "Cybersecurity Student" },
+        { "label": "Location", "value": "Guntur, Andhra Pradesh" }
+      ]
+    }
+  ]
+}
