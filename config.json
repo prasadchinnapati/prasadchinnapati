@@ -1,12 +1,57 @@
 {
   "coloredImage": true,
+  "imageScale": 1.3,
   "sections": [
     {
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "Prasad Chinnapati" },
         { "key": "Role", "value": "Cybersecurity Student" },
-        { "key": "Location", "value": "Guntur, Andhra Pradesh" }
+        { "key": "Location", "value": "Guntur, Andhra Pradesh" },
+        { "key": "Education", "value": "B.Tech, CGPA 8.0" }
+      ]
+    },
+    {
+      "title": "- Skills",
+      "fields": [
+        { "key": "Security", "value": "Network Security, OWASP Top 10" },
+        { "key": "Forensics", "value": "Digital Forensics Basics" },
+        { "key": "Platform", "value": "Linux Fundamentals" },
+        { "key": "Practice", "value": "CTF Challenges" }
+      ]
+    },
+    {
+      "title": "- Tools",
+      "fields": [
+        { "key": "Scanning", "value": "Nmap, Metasploit, Nikto" },
+        { "key": "Traffic", "value": "Wireshark, tcpdump" },
+        { "key": "Web Security", "value": "Burp Suite, OWASP ZAP" },
+        { "key": "Password Auth", "value": "Hydra, John the Ripper" },
+        { "key": "Forensics", "value": "Autopsy, FTK Imager, Volatility" }
+      ]
+    },
+    {
+      "title": "- Experience",
+      "fields": [
+        { "key": "Code Alpha", "value": "Network Security Intern, 2025-2026" },
+        { "key": "Cisco Academy", "value": "Web App Security Intern, 2025-2026" }
+      ]
+    },
+    {
+      "title": "- Certifications",
+      "fields": [
+        { "key": "CEH", "value": "EC Council" },
+        { "key": "Security+", "value": "Cybrary" },
+        { "key": "Network+", "value": "Cybrary" },
+        { "key": "Forensics", "value": "Macquarie University" },
+        { "key": "Security Analyst", "value": "IBM" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "prasadchinnapati7@gmail.com" },
+        { "key": "LinkedIn", "value": "in/prasad-chinnapati-a62796370" }
       ]
     }
   ]
