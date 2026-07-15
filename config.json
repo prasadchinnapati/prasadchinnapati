@@ -3,10 +3,10 @@
   "sections": [
     {
       "title": "{{username}}@github",
-      "items": [
-        { "label": "Name", "value": "Prasad Chinnapati" },
-        { "label": "Role", "value": "Cybersecurity Student" },
-        { "label": "Location", "value": "Guntur, Andhra Pradesh" }
+      "fields": [
+        { "key": "Name", "value": "Prasad Chinnapati" },
+        { "key": "Role", "value": "Cybersecurity Student" },
+        { "key": "Location", "value": "Guntur, Andhra Pradesh" }
       ]
     }
   ]
