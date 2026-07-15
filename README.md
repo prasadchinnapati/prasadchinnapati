@@ -10,6 +10,3 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=prasadchinnapati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy-cybraa.vercel.app/?username=prasadchinnapati&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
